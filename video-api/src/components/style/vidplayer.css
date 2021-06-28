@@ -1,0 +1,35 @@
+/* .vidplayer{
+  position:relative; 
+  top:10px; 
+  left:80px; 
+  font-family: sans-serif;
+  align-items: left;
+  justify-content: center;
+} */
+.card{
+  max-width: 100;
+  position:relative;
+  top:10px; 
+  left:80px; 
+  height: 550px;
+  font-family: sans-serif;
+  align-items: left;
+}
+.modal {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 50%;
+  top: 50%; 
+  margin-left: -150px;
+  margin-top: -150px;
+}
+.media{
+  height: 0;
+  padding-top: 56;
+}
+
+#frame{
+  height: 400px;
+  width:400px;
+}

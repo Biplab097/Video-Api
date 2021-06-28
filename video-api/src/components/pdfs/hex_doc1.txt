@@ -1,0 +1,3 @@
+A complete solution for the next generation of plant design and automation, CADWorx® Plant Professional includes the most complete DWG file-based range of tools for effective plant design and offers unparalleled flexibility and collaboration.
+
+CADWorx Plant Professional runs on AutoCAD® or BricsCAD® platform and includes BricsCAD® Pro, providing a complete package with powerful and adaptive tools that enable quick and easy creation of fully intelligent 3D plant models.

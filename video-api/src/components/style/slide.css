@@ -1,0 +1,9 @@
+.slide{
+  font-family: sans-serif;
+  display: flex;
+  align-items: left;
+  justify-content: center;
+  height:80px;
+  width:590px;
+  padding-left: 1.0ch;
+}

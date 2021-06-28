@@ -1,0 +1,7 @@
+.corousal{
+  font-family: sans-serif;
+  display: flex;
+  align-items: left;
+  justify-content: center;
+  width:1500px;
+}

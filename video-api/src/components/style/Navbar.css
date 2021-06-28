@@ -1,0 +1,105 @@
+/* .topnav {
+  background-color: rgb(18, 163, 207);
+  overflow: hidden;
+}
+
+
+.image{
+    width:10%;
+} */
+
+/* Style the links inside the navigation bar */
+/* .topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+} */
+
+/* Change the color of links on hover */
+/* .topnav a:hover {
+  background-color: rgb(184, 223, 226);
+  color: rgb(35, 120, 190);
+} */
+
+/* Add a color to the active/current link */
+/* .topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.navbar {
+  overflow: hidden;
+  background-color: rgb(6, 142, 184);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  height: 70px;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+.image{
+  width: 96px;
+  height: 96px;
+  border-radius: 500%;
+  margin-top: -6px;
+  float:right;
+}
+.margin{
+  margin-right:800px;
+} */
+
+/* reference */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: rgb(250, 244, 244);
+}
+.navbar {
+  overflow: hidden;
+  background-color: rgb(65, 223, 223);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  height: 50px;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f8f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+.image{
+  width: 130px;
+  height: 60px;
+  border-radius: 500%;
+  margin-top: -6px;
+  float:right;
+}
+.margin{
+  margin-right:700px;
+}
